@@ -160,6 +160,101 @@
 		<requirement class="rank" range="0 10000"/>
 	</model>
 
+	<!-- Tachanka -->
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eodvest.carry_item"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_2"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_3"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_4"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_5"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_6"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28.weapon"/>
+	</model>
+
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eodvest.carry_item"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_2"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_3"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_4"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_5"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_6"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="dp28_s.weapon"/>
+	</model>
+
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eodvest.carry_item"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_2"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_3"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_4"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_5"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+	<model filename="soldier_tachanka.xml">
+		<requirement class="carry_item" slot="1" key="eod_6"/>
+		<requirement class="rank" range="0 10000" />
+		<requirement class="weapon" slot="0" key="kulakov.weapon"/>
+	</model>
+
+
 	<!-- Cowboy -->
 	<model filename="soldier_cowboy.xml">
 		<requirement class="rank" range="0 100" />
